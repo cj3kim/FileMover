@@ -3,12 +3,19 @@ FileMover
 
 A simple way to move many files in a bash environment.
 
-Just put the below in your .bash_profile file and it should work!
+How to Use
+-----------
 
-alias move_files='ruby path/to/FileMover/file_mover.rb'
+Just put the text below in your .bash_profile file and it should work!
 
-Important
-=============
+> alias move_files='ruby path/to/FileMover/file_mover.rb'
+
+Then, type in 'move_files' in your command terminal. 
+
+Have fun!
+
+Regex
+----------
 
 When the program prompts you for a file name pattern, you can use either a string or regex. 
 
