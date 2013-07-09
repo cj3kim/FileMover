@@ -6,11 +6,12 @@ A simple way to move many files in a bash environment.
 How to Use
 -----------
 
-Just put the text below in your .bash_profile file and it should work!
+Just put the text below in your .bash_profile file:
 
 > alias move_files='ruby path/to/FileMover/file_mover.rb'
 
-Then, type in 'move_files' in your command terminal. 
+Then, type in 'move_files' in your command terminal. The program should
+start!
 
 Have fun!
 
